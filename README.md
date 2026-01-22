@@ -1,5 +1,3 @@
-# e-wallet-user-behavior-segmentation
-
 # 🥇 E-Wallet User Behavior Segmentation
 
 **User Behavior Segmentation of E-Wallet Applications in Indonesia  
